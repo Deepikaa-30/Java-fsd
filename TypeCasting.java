@@ -15,7 +15,17 @@ public class TypeCasting {
 		
 		System.out.println( c);
 		System.out.println( d);
+
 		
+		//Explicit
+		
+		double p = 10.5; //8 byte
+		int q = (int)p; //4 byte
+		System.out.println( q );
+		
+		double o = 10.5;
+		float r = (float)o;
+		System.out.println( r );
 	
 
 	}
