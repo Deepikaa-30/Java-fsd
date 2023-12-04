@@ -1,0 +1,7 @@
+package com;
+
+public class AcessModifier {
+	int a =10;
+	System.out.println(x);
+ 
+}
